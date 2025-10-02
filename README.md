@@ -1,21 +1,4 @@
-# desafioAmazons3eLambda
 
-
-A imagem que você enviou parece ser um diagrama de arquitetura da Amazon Web Services (AWS), não um "código".
-
-Com base nos ícones do diagrama, consigo identificar os seguintes serviços AWS:
-
-Amazon S3 (Simple Storage Service): O ícone de cubos vermelhos no canto superior esquerdo. É usado para armazenamento de objetos.
-
-AWS Lambda: O ícone laranja no topo. É um serviço de computação serverless que executa código em resposta a eventos.
-
-AWS Identity and Access Management (IAM) ou um Usuário/Entidade Genérica: O ícone de pessoa laranja na parte inferior esquerda. Pode representar um usuário interagindo com o sistema, ou o papel/permissões (IAM) usado.
-
-Amazon RDS (Relational Database Service) ou um Banco de Dados Genérico: O ícone de cilindros azuis na parte inferior direita. Representa um serviço de banco de dados.
-
-Um Arquivo/Documento: O elemento rotulado como "Arquivo" (File/Document).
-
-Assumindo que este diagrama representa um fluxo de processamento de arquivos na AWS, vou criar um modelo de README (em português) que descreveria o projeto que usa essa arquitetura.
 
 📁 Projeto: Processamento de Arquivos Serverless (AWS)
 Este projeto implementa uma arquitetura serverless na Amazon Web Services (AWS) para o upload, processamento e persistência de dados extraídos de arquivos.
